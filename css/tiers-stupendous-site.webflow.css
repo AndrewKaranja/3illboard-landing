@@ -5187,9 +5187,13 @@ a {
   }
 
   .hero__cta-section {
-    margin-top: -14vh;
+    margin-top: -28vh;
     margin-bottom: 0;
     display: block;
+  }
+
+  .hero__scroll-container {
+    margin-top: 0;
   }
 
   .hero__intro {
@@ -5200,7 +5204,15 @@ a {
     margin-top: -16px;
   }
 
+  .hero__hand {
+    width: 13.3em;
+    margin-left: -6.4em;
+    top: -2.45em;
+    left: 46%;
+  }
+
   .hero__ui {
+    z-index: 3;
     margin-top: -2.55em;
     display: block;
   }
