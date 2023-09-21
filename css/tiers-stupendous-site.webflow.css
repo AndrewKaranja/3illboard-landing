@@ -3049,6 +3049,7 @@ a {
 }
 
 .privacy_grid {
+  overflow: hidden;
   grid-column-gap: 0px;
   grid-template: "Lateral-Menu Content"
   / .5fr 1.25fr;
