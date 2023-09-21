@@ -4462,6 +4462,7 @@ a {
   }
 
   .sticky_menu_wrapper {
+    overflow: hidden;
     height: auto;
     flex-direction: row;
     display: none;
