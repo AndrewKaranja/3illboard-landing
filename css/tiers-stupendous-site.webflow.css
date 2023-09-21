@@ -3212,6 +3212,7 @@ a {
 }
 
 .sticky_menu_wrapper {
+  overflow: hidden;
   z-index: 0;
   height: 400px;
   background-color: rgba(0, 0, 0, 0);
